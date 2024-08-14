@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/pavel/Repo/sprint-name-generator/src/main/resources/prefix.txt,/Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/prefix.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/pavel/Repo/sprint-name-generator/src/main/resources/item.txt,/Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/item.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/pavel/Repo/sprint-name-generator/src/main/resources/postfix.txt,/Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/postfix.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/pavel/Repo/sprint-name-generator/src/main/resources/quality.txt,/Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/quality.txt)[0m

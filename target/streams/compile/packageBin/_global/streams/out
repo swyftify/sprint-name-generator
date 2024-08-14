@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/sprint-name-generator_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gui[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/gui[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gui/Gui$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/gui/Gui$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gui/Gui$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/gui/Gui$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gui/Gui$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/gui/Gui$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gui/Gui$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/gui/Gui$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gui/Gui.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/gui/Gui.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gui/Gui.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/gui/Gui.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/ProcessingClass.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/model/ProcessingClass.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/ProcessingClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/model/ProcessingClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/ProcessingClass$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pavel/Repo/sprint-name-generator/target/scala-3.3.0/classes/model/ProcessingClass$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
